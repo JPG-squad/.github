@@ -1,1 +1,1 @@
-TEAFASF
+¡Bienvenidos! Participamos en el Hackathon for Good de AWS, abordando el reto de la Cruz Roja. Mejoramos los procesos de comunicación y recogida de datos. En nuestro repositorio, encontrarás cómo nuestra solución innovadora puede ayudar a la Cruz Roja. ¡Gracias por visitar nuestro repositorio!
